@@ -7,7 +7,7 @@
   . LinkedIn: www.linkedin.com/in/marianovizzo 
   . Instagram: @marianovizzo
   . Threads.net: @marianovizzo
-  . Mail: mariano_vizzo@hotmail.com
+  . Mail: mariano_vizzo@hotmail.com / marianovizzo@gmail.com
 
 <!---
 MarianoVizzo/MarianoVizzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
