@@ -1,3 +1,9 @@
+<div align="center">
+<h1 align="center">Hi, I’m Mariano. 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
+
+
 - 👋 Hi, I’m Mariano.
 - 👀 I’m interested for technology and for using data to generate insights that allow us to strategically optimize and enhance key areas of organizations.
 - 🌱 As I’m a lifelong learner, I’m studying two postgraduate degrees: a Master's Degree in Financial Data Management and Analysis, and a Specialization in Quantitative Methods for Data Management and Analysis in Organizations at the University of Buenos Aires.
@@ -8,4 +14,3 @@
 MarianoVizzo/MarianoVizzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
