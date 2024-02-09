@@ -13,7 +13,7 @@
 - 📫 If you want to contact me, you can write to me directly on mail mariano_vizzo@hotmail.com / marianovizzo@gmail.com
 <br>
 
-<div align="left">
+
 ## 🔨 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
