@@ -1,18 +1,12 @@
 <div align="center">
 <h1 align="center">Hi, I’m Mariano 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
-
-
-- 👀 I’m interested for technology and for using data to generate insights that allow us to strategically optimize and enhance key areas of organizations.
-- 🌱 As I’m a lifelong learner, I’m studying two postgraduate degrees: a Master's Degree in Financial Data Management and Analysis, and a Specialization in Quantitative Methods for Data Management and Analysis in Organizations at the University of Buenos Aires.
-- 🔎 At this moment, my goal is to find a professional opportunity or be part of projects that allow me to put my skills and knowledge in Data Analysis into practice, contributing to the achievement of defined objectives.
-- 📫 If you want to contact me, you can write to me directly on mail mariano_vizzo@hotmail.com / marianovizzo@gmail.com
+<img src="[https://i.imgur.com/weNbhGZ.png](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh6d2xkd21mdDY5c2pvNWd2d2diMDMyM3E0MG5mY3ZwdTRiaDB3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)">
 
 ## About me
 
-- ⭐ Data Analyts ⭐ 
-- 👀 I’m interested for technology and for using data to generate insights that allow us to strategically optimize and enhance key areas of organizations.
+- 🚀 Data Analyst and Data Scientist in process.
+- 📊 Passion for transforming data into history to generate insights that allow us to strategically optimize and enhance key areas of organizations.
 - 📗 As I’m a lifelong learner, I’m studying two postgraduate degrees: a Master's Degree in Financial Data Management and Analysis, and a Specialization in Quantitative Methods for Data Management and Analysis in Organizations at the University of Buenos Aires.
 - 🔎 At this moment, my goal is to find a professional opportunity or be part of projects that allow me to put my skills and knowledge in Data Analysis into practice, contributing to the achievement of defined objectives.
 - 📫 If you want to contact me, you can write to me directly on mail mariano_vizzo@hotmail.com / marianovizzo@gmail.com
