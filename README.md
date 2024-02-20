@@ -1,7 +1,7 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh6d2xkd21mdDY5c2pvNWd2d2diMDMyM3E0MG5mY3ZwdTRiaDB3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR6cTBoNDJjOWxvYWJxaG10bDFxOXNydjhwdmJudDZjbHl3cG04NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JkVnfE54QdOMQBxmHg/giphy.gif" width="300" />
     <h1 align="center">Hi, I'm Mariano 👋 </h1>
-    <h3 align="center"> 🚀 A passionate Data Analyst and future Data Scientist  🚀 </h3>
+    <h3 align="center"> 🚀 A passionate Data Analyst 🚀 </h3>
 </div>
 
 
