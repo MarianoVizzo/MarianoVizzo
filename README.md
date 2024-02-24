@@ -5,7 +5,7 @@
 </div>
 
 
-## 👨‍💻 About m
+## 👨‍💻 About me
 
 - 📊 My passion is turning data into stories in order to extract insights that allow informed and strategic business decisions to be made.
 - 📗 As I’m a lifelong learner, I’m studying two postgraduate degrees: a Master's Degree in Financial Data Management and Analysis, and a Specialization in Quantitative Methods for Data Management and Analysis in Organizations at the University of Buenos Aires.
