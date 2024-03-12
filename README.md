@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR6cTBoNDJjOWxvYWJxaG10bDFxOXNydjhwdmJudDZjbHl3cG04NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JkVnfE54QdOMQBxmHg/giphy.gif" width="350" />
     <h1 align="center">Hi, I'm Mariano <a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> </h1>
-    
     <h3 align="center"> 🚀 A passionate Data Analyst 🚀 </h3>
 </div>
 
